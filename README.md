@@ -1,1 +1,1 @@
-# Learn_Regular_Expressions_by_Building_a_Password_Generator
+This project provides practical examples of how to use Python modules and Regular Expressions. Through code demonstrations, you will learn how to effectively use modules from the Python standard library. Moreover, you will discover how Regular Expressions can be utilized to create a customized password generator program. By delving into the code, you will gain insights into module importation and regex implementation in Python projects.
